@@ -2,11 +2,9 @@
 # Created By: Vova M
 # Date: Sep 25, 2026
 
+# Save this file as: pizza_cost.py
+
 import math
-
-
-def main():
-    calculate_pizza_details()
 
 
 def calculate_pizza_details():
