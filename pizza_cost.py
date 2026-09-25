@@ -8,6 +8,7 @@ import math
 def main():
     calculate_pizza_details()
 
+
 def calculate_pizza_details():
     print("--- Pizza Cost & Measurement Calculator ---\n")
 
